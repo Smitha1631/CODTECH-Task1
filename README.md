@@ -1,8 +1,13 @@
 Name : SMITHA K S
+
 Company : CODTECH IT SOLUTIONS
+
 ID : CT08DS1485
+
 Domain : JAVA PROGRAMMING
+
 Duration : 1st JUNE 2024 to 30th JUNE 2024
+
 Mentor : G.SRAVANI
 
 OVERVIEW:
@@ -23,7 +28,9 @@ Error handling will be implemented to handle division by zero error.
 The program will display the result of the calculation to the user.
 
 RESULTS:
-![task1](https://github.com/Smitha1631/CODTECH-Task1/assets/131791045/f8837541-426a-432c-a386-8919ed616d06)
+![Screenshot (106)](https://github.com/Smitha1631/CODTECH-Task1/assets/131791045/a6feaaa8-38c4-4aa8-aff6-bde0de4d3797)
+![Screenshot (105)](https://github.com/Smitha1631/CODTECH-Task1/assets/131791045/67fc768b-9b0c-4eb6-b4c1-f5b6e63e0e7a)
+
 
 CONCLUSION:
 The Simple Calculator project successfully fulfills its objective of providing basic arithmetic operations to users. Through Java programming, it efficiently prompts users for two numbers and allows them to choose an operation. The program then accurately computes the result based on the selected operation, including handling division by zero errors. Overall, this project offers a user-friendly and functional calculator experience.
